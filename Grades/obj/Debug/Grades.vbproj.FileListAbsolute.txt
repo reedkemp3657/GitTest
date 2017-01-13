@@ -1,0 +1,30 @@
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe.config
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\obj\Debug\Grades.frmMain.resources
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\obj\Debug\Grades.Resources.resources
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\obj\Debug\Grades.vbproj.GenerateResource.Cache
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.pdb
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.xml
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\obj\Debug\Grades.exe
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\obj\Debug\Grades.xml
+C:\Users\kempr01\AppData\Local\Temporary Projects\Grades\obj\Debug\Grades.pdb
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.exe
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.xml
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.pdb
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.exe
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.pdb
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.xml
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.frmMain.resources
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.Resources.resources
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.vbproj.GenerateResource.Cache
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.xml
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\bin\Debug\Grades.xml
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.frmMain.resources
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.Resources.resources
+C:\Users\Reed\Documents\Visual Studio 2012\Projects\Grades\Grades\obj\Debug\Grades.vbproj.GenerateResource.Cache
